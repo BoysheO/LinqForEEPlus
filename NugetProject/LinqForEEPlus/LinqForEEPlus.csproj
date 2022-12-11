@@ -6,6 +6,8 @@
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <SymbolPackageFormat>symbols.nupkg</SymbolPackageFormat>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>BoysheO</Authors>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 	<ItemGroup>
