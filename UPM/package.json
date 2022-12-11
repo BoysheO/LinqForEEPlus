@@ -1,0 +1,15 @@
+{
+  "name": "linq4eeplus",
+  "version": "1.0.0",
+  "displayName": "Linq4EEPlus",
+  "description": "Linq4EEPlus,simple to read Excels by linq.",
+  "unity": "2019.1",
+  "keywords": [
+    "excel","table","eeplus"
+  ],
+  "author": {
+    "name": "Boysheo",
+    "url": "https://github.com/BoysheO/LinqForEEPlus"
+  },
+  "type": "library"
+}
