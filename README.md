@@ -1,4 +1,4 @@
-# 中文 | English
+[中文](README.md) | [English](README_EN.md)
 
 如果觉得这个库好用，请点个星星 ⭐ 支持一下！🙇‍
 
